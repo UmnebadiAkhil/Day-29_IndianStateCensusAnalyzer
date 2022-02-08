@@ -1,0 +1,6 @@
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-29_IndianStateCensusAnalyzer\CensusAnalyserTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-29_IndianStateCensusAnalyzer\CensusAnalyserTest\obj\Debug\net6.0\CensusAnalyserTest.csproj.AssemblyReference.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-29_IndianStateCensusAnalyzer\CensusAnalyserTest\obj\Debug\net6.0\CensusAnalyserTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-29_IndianStateCensusAnalyzer\CensusAnalyserTest\obj\Debug\net6.0\CensusAnalyserTest.AssemblyInfoInputs.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-29_IndianStateCensusAnalyzer\CensusAnalyserTest\obj\Debug\net6.0\CensusAnalyserTest.AssemblyInfo.cs
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-29_IndianStateCensusAnalyzer\CensusAnalyserTest\obj\Debug\net6.0\CensusAnalyserTest.csproj.CoreCompileInputs.cache

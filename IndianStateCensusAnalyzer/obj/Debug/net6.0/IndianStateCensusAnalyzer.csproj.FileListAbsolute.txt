@@ -1,0 +1,15 @@
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-29_IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\bin\Debug\net6.0\IndianStateCensusAnalyzer.exe
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-29_IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\bin\Debug\net6.0\IndianStateCensusAnalyzer.deps.json
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-29_IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\bin\Debug\net6.0\IndianStateCensusAnalyzer.runtimeconfig.json
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-29_IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\bin\Debug\net6.0\IndianStateCensusAnalyzer.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-29_IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\bin\Debug\net6.0\ref\IndianStateCensusAnalyzer.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-29_IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\bin\Debug\net6.0\IndianStateCensusAnalyzer.pdb
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-29_IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\net6.0\IndianStateCensusAnalyzer.csproj.AssemblyReference.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-29_IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\net6.0\IndianStateCensusAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-29_IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\net6.0\IndianStateCensusAnalyzer.AssemblyInfoInputs.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-29_IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\net6.0\IndianStateCensusAnalyzer.AssemblyInfo.cs
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-29_IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\net6.0\IndianStateCensusAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-29_IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\net6.0\IndianStateCensusAnalyzer.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-29_IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\net6.0\ref\IndianStateCensusAnalyzer.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-29_IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\net6.0\IndianStateCensusAnalyzer.pdb
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-29_IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\net6.0\IndianStateCensusAnalyzer.genruntimeconfig.cache
